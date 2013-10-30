@@ -1,0 +1,2199 @@
+CC   
+CC   REBASE version 003                                           bairoch.003
+CC   
+CC   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CC   REBASE, The Restriction Enzyme Database   http://rebase.neb.com
+CC   Copyright (c)  Dr. Richard J. Roberts, 2010.   All rights reserved.
+CC   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+CC   
+CC   Rich Roberts                                                 Feb 26 2010
+CC   
+CC   
+CC   
+CC   REBASE codes for commercial sources of enzymes
+CC   
+CC   B=Invitrogen Corporation (2/10)
+CC   C=Minotech Biotechnology (2/10)
+CC   E=Stratagene (9/09)
+CC   F=Fermentas International Inc. (2/10)
+CC   H=American Allied Biochemical, Inc. (2/10)
+CC   I=SibEnzyme Ltd. (2/10)
+CC   J=Nippon Gene Co., Ltd. (2/10)
+CC   K=Takara Bio Inc. (2/10)
+CC   M=Roche Applied Science (2/10)
+CC   N=New England Biolabs (2/10)
+CC   O=Toyobo Biochemicals (9/09)
+CC   Q=Molecular Biology Resources - CHIMERx (2/10)
+CC   R=Promega Corporation (9/09)
+CC   S=Sigma Chemical Corporation (2/10)
+CC   U=Bangalore Genei (2/10)
+CC   V=Vivantis Technologies (2/10)
+CC   W=MP Biomedicals (6/09)
+CC   X=EURx Ltd. (2/10)
+CC   Y=CinnaGen Inc. (2/10)
+CC   
+CC   
+
+ID   AatII
+ET   R2
+AC   RB00007;
+OS   Acetobacter aceti
+PT   AatII
+RS   GACGTC, 5;
+CR   FIKMNORV.
+RN   [1]
+RA   Sugisaki H., Maekawa Y., Kanazawa S., Takanami M.;
+RL   Nucleic Acids Res. 10:5747-5752(1982).
+//
+
+ID   Acc65I
+ET   R2
+AC   RB00014;
+OS   Acinetobacter calcoaceticus 65
+PT   KpnI
+RS   GGTACC, 1;
+CR   FINRVW.
+RN   [1]
+RA   Lunnen K.D., Wilson G.G.;
+RL   Unpublished observations.
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Prichodko G.G., Rechnukova N.I., Repin V.E., Degtyarev S.K.;
+RL   Sib. Biol. J. 1:59-60(1991).
+//
+
+ID   AclI
+ET   R2
+AC   RB02181;
+OS   Acinetobacter calcoaceticus M4
+PT   AclI
+RS   AACGTT, 2;
+CR   INV.
+RN   [1]
+RA   Degtyarev S.K., Abdurashitov M.A., Kolyhalov A.A., Rechkunova N.I.;
+RL   Nucleic Acids Res. 20:3787-3787(1992).
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+//
+
+ID   AfeI
+ET   R2
+AC   RB02669;
+OS   Alcaligenes faecalis T2774
+PT   Eco47III
+RS   AGCGCT, 3;
+CR   IN.
+RN   [1]
+RA   Abdurashitov M.A., Kileva E.V., Shevchenko A.V., Degtyarev S.K.;
+RL   Unpublished observations.
+RN   [2]
+RA   Lunnen K.;
+RL   Unpublished observations.
+RN   [3]
+RA   Zhu Z., Roberts R.J.;
+RL   Unpublished observations.
+//
+
+ID   AflI
+ET   R2
+AC   RB00038;
+OS   Anabaena flos-aquae
+PT   AvaII
+RS   GGWCC, 1;
+CR   .
+RN   [1]
+RA   Whitehead P.R., Brown N.L.;
+RL   J. Gen. Microbiol. 131:951-958(1985).
+//
+
+ID   AflIII
+ET   R2
+AC   RB00040;
+OS   Anabaena flos-aquae
+PT   AflIII
+RS   ACRYGT, 1;
+CR   MNW.
+RN   [1]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [2]
+RA   Whitehead P.R., Brown N.L.;
+RL   J. Gen. Microbiol. 131:951-958(1985).
+//
+
+ID   AgeI
+ET   R2
+AC   RB00042;
+OS   Agrobacterium gelatinovorum
+PT   AgeI
+RS   ACCGGT, 1;
+CR   JNR.
+RN   [1]
+RA   Xu S.-Y., Maunus R.E., Lunnen K.D., Allen R.;
+RL   (1999) US Patent Office.
+RN   [2]
+RA   Yamada Y., Mizuno H., Sato H., Akagawa M., Yamasato K.;
+RL   Agric. Biol. Chem. 53:1747-1749(1989).
+//
+
+ID   AhaI
+ET   R2
+AC   RB00045;
+OS   Aphanothece halophytica
+PT   CauII
+RS   CCSGG, 2;
+CR   .
+RN   [1]
+RA   Whitehead P.R., Brown N.L.;
+RL   Arch. Microbiol. 141:70-74(1985).
+//
+
+ID   AluI
+ET   R2
+AC   RB00061;
+OS   Arthrobacter luteus
+PT   AluI
+RS   AGCT, 2;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Kramarov V.M., Smolyaninov V.V.;
+RL   Biokhimiia 46:1526-1529(1981).
+RN   [2]
+RA   Labeots L.A.;
+RL   Diss. Abstr. 53:2842-2842(1993).
+RN   [3]
+RA   Roberts R.J., Myers P.A., Morrison A., Murray K.;
+RL   J. Mol. Biol. 102:157-165(1976).
+RN   [4]
+RA   Smith M.D., Schmidt B.J., Longo M.C., Chatterjee D.K.;
+RL   (1994) US Patent Office.
+RN   [5]
+RA   Yoon H., Suh H., Kim K., Han M.H., Yoo O.J.;
+RL   Korean Biochem. J. 18:88-93(1985).
+//
+
+ID   Alw44I
+ET   R2
+AC   RB00064;
+OS   Acinetobacter lwoffi RFL44
+PT   ApaLI
+RS   GTGCAC, 1;
+CR   FJOR.
+RN   [1]
+RA   Jagelavicius M., Bitinaite J., Maneliene Z., Butkus V., Janulaitis A.;
+RL   Unpublished observations.
+//
+
+ID   Ama87I
+ET   R2
+AC   RB00068;
+OS   Alteromonas macleodii 87
+PT   AvaI
+RS   CYCGRG, 1;
+CR   IV.
+RN   [1]
+RA   Degtyarev S.K.;
+RL   Unpublished observations.
+//
+
+ID   ApaI
+ET   R2
+AC   RB00084;
+OS   Acetobacter pasteurianus sub. pasteurianus
+PT   ApaI
+RS   GGGCCC, 5;
+CR   BFIJKMNOQRSUVWX.
+RN   [1]
+RA   Kong H.;
+RL   Unpublished observations.
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Seurinck J., Van de Voorde A., Van Montagu M.;
+RL   Nucleic Acids Res. 11:4409-4415(1983).
+RN   [4]
+RA   Yamada Y., Murakami M.;
+RL   Agric. Biol. Chem. 49:3627-3629(1985).
+//
+
+ID   ApaLI
+ET   R2
+AC   RB00085;
+OS   Acetobacter pasteurianus
+PT   ApaLI
+RS   GTGCAC, 1;
+CR   CKNU.
+RN   [1]
+RA   Murakami M., Yamada Y.;
+RL   Agric. Biol. Chem. 54:1791-1796(1990).
+RN   [2]
+RA   Xia Y., Van Etten J.L., Dobos P., Ling Y.Y., Krell P.J.;
+RL   Virology 196:817-824(1993).
+RN   [3]
+RA   Xu S.-Y., Xiao J.-P., Ettwiller L., Holden M., Aliotta J., Poh C.L., 
+RA   Dalton M., Robinson D.P., Petronzio T.R., Moran L., Ganatra M., Ware J., 
+RA   Slatko B., Benner J.;
+RL   Mol. Gen. Genet. 260:226-231(1998).
+RN   [4]
+RA   Yamada Y., Murakami M.;
+RL   Agric. Biol. Chem. 49:3627-3629(1985).
+//
+
+ID   AseI
+ET   R2
+AC   RB00096;
+OS   Aquaspirillum serpens
+PT   VspI
+RS   ATTAAT, 2;
+CR   JNO.
+RN   [1]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [2]
+RA   Polisson C., Morgan R.D.;
+RL   Nucleic Acids Res. 16:10365-10365(1988).
+//
+
+ID   Asp718I
+ET   R2
+AC   RB00132;
+OS   Achromobacter species 718
+PT   KpnI
+RS   GGTACC, 1;
+CR   M.
+RN   [1]
+RA   Bolton B.J., Nesch G., Comer M.J., Wolf W., Kessler C.;
+RL   FEBS Lett. 182:130-134(1985).
+//
+
+ID   AspA2I
+ET   R2
+AC   RB06959;
+OS   Arthrobacter species A2
+PT   AvrII
+RS   CCTAGG, 1;
+CR   IV.
+RN   [1]
+RA   Abdurashitov M.A., Dedkov V.S., Shinkarenko N.M., Popichenko D.V., 
+RA   Degtyarev S.K.;
+RL   Unpublished observations.
+//
+
+ID   AsuII
+ET   R2
+AC   RB00154;
+OS   Anabaena subcylindrica
+PT   AsuII
+RS   TTCGAA, 2;
+CR   C.
+RN   [1]
+RA   de Waard A., Duyvesteyn M.;
+RL   Arch. Microbiol. 128:242-247(1980).
+//
+
+ID   AvaI
+ET   R2
+AC   RB00165;
+OS   Anabaena variabilis
+PT   AvaI
+RS   CYCGRG, 1;
+CR   BJMNORUWX.
+RN   [1]
+RA   Hughes S.G., Murray K.;
+RL   Biochem. J. 185:65-75(1980).
+RN   [2]
+RA   Kaneko T. et al.;
+RL   DNA Res. 8:205-213(2001).
+RN   [3]
+RA   Murray K., Hughes S.G., Brown J.S., Bruce S.A.;
+RL   Biochem. J. 159:317-322(1976).
+RN   [4]
+RA   Xu S.-Y.;
+RL   Unpublished observations.
+//
+
+ID   AvaII
+ET   R2
+AC   RB00166;
+OS   Anabaena variabilis
+PT   AvaII
+RS   GGWCC, 1;
+CR   JKMNRSWY.
+RN   [1]
+RA   Fuchs C., Rosenvold E.C., Honigman A., Szybalski W.;
+RL   Gene 4:1-23(1978).
+RN   [2]
+RA   Hughes S.G., Murray K.;
+RL   Biochem. J. 185:65-75(1980).
+RN   [3]
+RA   Kaneko T. et al.;
+RL   DNA Res. 8:205-213(2001).
+RN   [4]
+RA   Lunnen K.D., Wilson G.G., Kroeger M.;
+RL   Unpublished observations.
+RN   [5]
+RA   Murray K., Hughes S.G., Brown J.S., Bruce S.A.;
+RL   Biochem. J. 159:317-322(1976).
+RN   [6]
+RA   Sutcliffe J.G., Church G.M.;
+RL   Nucleic Acids Res. 5:2313-2319(1978).
+//
+
+ID   AvrII
+ET   R2
+AC   RB00173;
+OS   Anabaena variabilis uw
+PT   AvrII
+RS   CCTAGG, 1;
+CR   N.
+RN   [1]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [2]
+RA   Rosenvold E.C., Szybalski W.;
+RL   Unpublished observations.
+//
+
+ID   BalI
+ET   R2
+AC   RB00183;
+OS   Brevibacterium albidum
+PT   BalI
+RS   TGGCCA, 3;
+CR   JKRX.
+RN   [1]
+RA   Forrow S., Lee M., Souhami R.L., Hartley J.A.;
+RL   ACS Abstracts 208:97-97(1994).
+RN   [2]
+RA   Gelinas R.E., Myers P.A., Weiss G.H., Roberts R.J., Murray K.;
+RL   J. Mol. Biol. 114:433-440(1977).
+RN   [3]
+RA   Ueno H., Kato I., Ishino Y.;
+RL   Nucleic Acids Res. 24:2268-2270(1996).
+//
+
+ID   BamHI
+ET   R2
+AC   RB00185;
+OS   Bacillus amyloliquefaciens H
+PT   BamHI
+RS   GGATCC, 1;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Brooks J.E., Nathan P.D., Landry D., Sznyter L.A., Waite-Rees P., 
+RA   Ives C.L., Moran L.S., Slatko B.E., Benner J.S.;
+RL   Nucleic Acids Res. 19:841-850(1991).
+RN   [2]
+RA   Endo M., Majima T.;
+RL   (2003) Japanese Patent Office.
+RN   [3]
+RA   Majima T., Endo M.;
+RL   (2006) Japanese Patent Office.
+RN   [4]
+RA   Roberts R.J., Wilson G.A., Young F.E.;
+RL   Nature 265:82-84(1977).
+RN   [5]
+RA   Usami S., Kurimura H., Kino K., Kamigaki K., Kirimura K.;
+RL   (2003) Japanese Patent Office.
+RN   [6]
+RA   Wilson G.A., Young F.E.;
+RL   J. Mol. Biol. 97:123-125(1975).
+//
+
+ID   BclI
+ET   R2
+AC   RB00242;
+OS   Bacillus caldolyticus
+PT   BclI
+RS   TGATCA, 1;
+CR   CFJMNORSUWY.
+RN   [1]
+RA   Bingham A.H.A., Atkinson T., Sciaky D., Roberts R.J.;
+RL   Nucleic Acids Res. 5:3457-3467(1978).
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+//
+
+ID   BcnI
+ET   R2
+AC   RB00244;
+OS   Bacillus centrosporus RFL1
+PT   CauII
+RS   CCSGG, 2;
+CR   FK.
+RN   [1]
+RA   Janulaitis A., Klimasauskas S., Petrusyte M., Butkus V.;
+RL   FEBS Lett. 161:131-134(1983).
+RN   [2]
+RA   Janulaitis A., Petrusyte M.A., Jaskeleviciene B.P., Krayev A.S., 
+RA   Skryabin K.G., Bayev A.A.;
+RL   FEBS Lett. 137:178-180(1982).
+RN   [3]
+RA   Janulaitis A., Petrusyte M.P., Jaskeleviciene B.P., Krayev A.S., 
+RA   Skryabin K.G., Bayev A.A.;
+RL   Dokl. Akad. Nauk. 257:749-750(1981).
+RN   [4]
+RA   Klimasauskas S., Butkus V., Janulaitis A.;
+RL   Mol. Biol. (Mosk) 21:87-92(1987).
+RN   [5]
+RA   Petrusyte M.P., Janulaitis A.;
+RL   Bioorg. Khim. 7:1885-1887(1981).
+//
+
+ID   BcoI
+ET   R2
+AC   RB00249;
+OS   Bacillus coagulans SM 1
+PT   AvaI
+RS   CYCGRG, 1;
+CR   .
+RN   [1]
+RA   Leung S.M., Kam K.M., Chan K.Y., Shaw P.C.;
+RL   FEMS Microbiol. Lett. 66:153-156(1990).
+//
+
+ID   BglI
+ET   R2
+AC   RB00260;
+OS   Bacillus globigii
+PT   BglI
+RS   GCCNNNNNGGC, 7;
+CR   CFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Bickle T.A., Ineichen K.;
+RL   Gene 9:205-212(1980).
+RN   [2]
+RA   Duncan C.H., Wilson G.A., Young F.E.;
+RL   J. Bacteriol. 134:338-344(1978).
+RN   [3]
+RA   Lautenberger J.A., White C.T., Haigwood N.L., Edgell M.H., Hutchison C.A.;
+RL   Gene 9:213-231(1980).
+RN   [4]
+RA   Van Heuverswyn H., Fiers W.;
+RL   Gene 9:195-203(1980).
+//
+
+ID   BglII
+ET   R2
+AC   RB00261;
+OS   Bacillus globigii
+PT   BglII
+RS   AGATCT, 1;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Anton B.P., Heiter D.F., Benner J.S., Hess E.J., Greenough L., Moran L.S., 
+RA   Slatko B.E., Brooks J.E.;
+RL   Gene 187:19-27(1997).
+RN   [2]
+RA   Duncan C.H., Wilson G.A., Young F.E.;
+RL   J. Bacteriol. 134:338-344(1978).
+RN   [3]
+RA   Pirrotta V.;
+RL   Nucleic Acids Res. 3:1747-1760(1976).
+//
+
+ID   BlpI
+ET   R2
+AC   RB02535;
+OS   Bacillus species lp
+PT   EspI
+RS   GCTNAGC, 2;
+CR   N.
+RN   [1]
+RA   Chang Z., Morgan R.;
+RL   Unpublished observations.
+RN   [2]
+RA   Heiter D., Lunnen K., Wilson G.G.;
+RL   (2006) US Patent Office.
+RN   [3]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [4]
+RA   Polisson C.;
+RL   Unpublished observations.
+//
+
+ID   Bme18I
+ET   R2
+AC   RB00286;
+OS   Bacillus megaterium 18
+PT   AvaII
+RS   GGWCC, 1;
+CR   IV.
+RN   [1]
+RA   Degtyarev S.K., Rechkunova N.I., Grinev A.A., Dedkov V.S.;
+RL   Izv. Sib. Otd. Akad. Nauk SSSR 15:25-26(1989).
+//
+
+ID   BsaI
+ET   R2
+AC   RB00313;
+OS   Bacillus stearothermophilus 6-55
+PT   Eco31I
+RS   GGTCTC, 7; GAGACC, -5;
+CR   N.
+RN   [1]
+RA   Kong H., Chen Z.;
+RL   Unpublished observations.
+RN   [2]
+RA   Morgan R.D.;
+RL   Unpublished observations.
+RN   [3]
+RA   Xu S.-Y.;
+RL   Unpublished observations.
+RN   [4]
+RA   Zhu Z., Xu S.-Y.;
+RL   Unpublished observations.
+RN   [5]
+RA   Zhu Z., Xu S.-Y.;
+RL   (2003) US Patent Office.
+//
+
+ID   BsaAI
+ET   R2
+AC   RB00305;
+OS   Bacillus stearothermophilus G668
+PT   BsaAI
+RS   YACGTR, 3;
+CR   N.
+RN   [1]
+RA   Kong H., Morgan R.D., Chen Z.;
+RL   Nucleic Acids Res. 18:2832-2832(1990).
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Zhu Z.;
+RL   Unpublished observations.
+//
+
+ID   Bse21I
+ET   R2
+AC   RB00338;
+OS   Bacillus species 21
+PT   SauI
+RS   CCTNAGG, 2;
+CR   IV.
+RN   [1]
+RA   Degtyarev S.Kh., Rechkunova N.I., Repin V.E., Kolyhalov A.A., 
+RA   Netesov S.V.;
+RL   Izv. Sib. Otd. Akad. Nauk SSSR 1:138-139(1990).
+RN   [2]
+RA   Repin V.E., Polshina S.V., Bozhko N.A., Degtyarev S.Kh.;
+RL   Izv. Sib. Otd. Akad. Nauk SSSR 15:108-111(1989).
+//
+
+ID   BshTI
+ET   R2
+AC   RB03829;
+OS   Bacillus sphaericus Jo22-024
+PT   AgeI
+RS   ACCGGT, 1;
+CR   F.
+RN   [1]
+RA   Rudokas K., Petrusyte M., Maneliene Z., Trinkunaite L., Kiuduliene E., 
+RA   Butkus V., Janulaitis A.;
+RL   Unpublished observations.
+//
+
+ID   BsmI
+ET   R2
+AC   RB00389;
+OS   Bacillus stearothermophilus NUB36
+PT   BsmI
+RS   GAATGC, 7; GCATTC, 1;
+CR   JMNOSW.
+RN   [1]
+RA   Christ C., Ingalls D.;
+RL   Unpublished observations.
+RN   [2]
+RA   Myers P.A., Roberts R.J.;
+RL   Unpublished observations.
+RN   [3]
+RA   Zhou J., Zhu Z., Xu S.Y.;
+RL   (2002) US Patent Office.
+//
+
+ID   Bsp19I
+ET   R2
+AC   RB00446;
+OS   Bacillus species 19
+PT   NcoI
+RS   CCATGG, 1;
+CR   IV.
+RN   [1]
+RA   Degtyarev S.K.;
+RL   Unpublished observations.
+//
+
+ID   Bsp119I
+ET   R2
+AC   RB00406;
+OS   Bacillus species RFL119
+PT   AsuII
+RS   TTCGAA, 2;
+CR   F.
+RN   [1]
+RA   Janulaitis A., Maneliene Z., Butkus V.;
+RL   Unpublished observations.
+RN   [2]
+RA   Steponaviciene D., Petrusyte M., Janulaitis A.;
+RL   Unpublished observations.
+//
+
+ID   Bsp120I
+ET   R2
+AC   RB00407;
+OS   Bacillus species RFL120
+PT   ApaI
+RS   GGGCCC, 1;
+CR   F.
+RN   [1]
+RA   Janulaitis A., Gilvonauskaite R., Petrusyte M.;
+RL   Unpublished observations.
+RN   [2]
+RA   Janulaitis A., Maneliene Z., Butkus V.;
+RL   Unpublished observations.
+//
+
+ID   Bsp1407I
+ET   R2
+AC   RB02175;
+OS   Bacillus stearothermophilus RFL1407
+PT   Bsp1407I
+RS   TGTACA, 1;
+CR   FK.
+RN   [1]
+RA   Petrusyte M., Rudokas K., Maneliene Z., Kiuduliene E., Butkus V., 
+RA   Janulaitis A.;
+RL   Nucleic Acids Res. 21:2514-2514(1993).
+//
+
+ID   BspDI
+ET   R2
+AC   RB00511;
+OS   Bacillus species
+PT   ClaI
+RS   ATCGAT, 2;
+CR   N.
+RN   [1]
+RA   Kong H.;
+RL   Unpublished observations.
+RN   [2]
+RA   Zhu Z., Roberts R.J.;
+RL   Unpublished observations.
+//
+
+ID   BspEI
+ET   R2
+AC   RB00512;
+OS   Bacillus species
+PT   BspMII
+RS   TCCGGA, 1;
+CR   N.
+RN   [1]
+RA   Kong H., Hoffman L.;
+RL   Unpublished observations.
+RN   [2]
+RA   Lunnen K., Nwankwo D., Wilson G.;
+RL   Unpublished observations.
+RN   [3]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [4]
+RA   Nwankwo D.O.;
+RL   Gene 157:31-35(1995).
+//
+
+ID   BspHI
+ET   R2
+AC   RB00517;
+OS   Bacillus species H
+PT   BspHI
+RS   TCATGA, 1;
+CR   N.
+RN   [1]
+RA   Hall D., Camp R., Morgan R., Hoffman L.;
+RL   Unpublished observations.
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+//
+
+ID   BspRI
+ET   R2
+AC   RB00529;
+OS   Bacillus sphaericus R
+PT   HaeIII
+RS   GGCC, 2;
+CR   .
+RN   [1]
+RA   Kim S.C., Posfai G., Szybalski W.;
+RL   Gene 100:45-50(1991).
+RN   [2]
+RA   Kiss A., Sain B., Csordas-Toth E., Venetianer P.;
+RL   Gene 1:323-329(1977).
+RN   [3]
+RA   Posfai G., Kiss A., Erdei S., Posfai J., Venetianer P.;
+RL   J. Mol. Biol. 170:597-610(1983).
+RN   [4]
+RA   Szilak L., Finta C., Patthy A., Venetianer P., Kiss A.;
+RL   Nucleic Acids Res. 22:2876-2881(1994).
+//
+
+ID   BsrGI
+ET   R2
+AC   RB02196;
+OS   Bacillus stearothermophilus GR75
+PT   Bsp1407I
+RS   TGTACA, 1;
+CR   N.
+RN   [1]
+RA   Chen Z.;
+RL   Unpublished observations.
+RN   [2]
+RA   Chen Z.F., Pan X.S.;
+RL   Chinese Sci. Bull. 39:526-528(1994).
+RN   [3]
+RA   Fang N., Xu S.-Y.;
+RL   (2005) US Patent Office.
+//
+
+ID   BssHII
+ET   R2
+AC   RB00550;
+OS   Bacillus stearothermophilus H3
+PT   BsePI
+RS   GCGCGC, 1;
+CR   JKMNOQRSX.
+RN   [1]
+RA   Langdale J.A., Myers P.A., Roberts R.J.;
+RL   Unpublished observations.
+RN   [2]
+RA   Schildkraut I., Greenough L.;
+RL   Unpublished observations.
+//
+
+ID   BstPAI
+ET   R2
+AC   RB04619;
+OS   Bacillus stearothermophilus PA
+PT   PshAI
+RS   GACNNNNGTC, 5;
+CR   IV.
+RN   [1]
+RA   Tomilova J.E., Dedkov V.S., Kileva E.V., Popichenko D.V., Degtyarev S.Kh.;
+RL   Unpublished observations.
+//
+
+ID   BstXI
+ET   R2
+AC   RB00596;
+OS   Bacillus stearothermophilus X1
+PT   BstXI
+RS   CCANNNNNNTGG, 8;
+CR   FHIJKMNOQRVWX.
+RN   [1]
+RA   Langdale J.A., Myers P.A., Roberts R.J.;
+RL   Unpublished observations.
+RN   [2]
+RA   Skowron P.M., Rutkowska S.M., Harasimowicz-Slowinska R.I.;
+RL   Unpublished observations.
+RN   [3]
+RA   Wise R., Schildkraut I.;
+RL   Unpublished observations.
+RN   [4]
+RA   Zhu Z., Blanchard A., Xu S.-Y., Guan S., Wei H., Zhang P., Sun D., 
+RA   Chan S.-h.;
+RL   (2009) International Patent Office.
+RN   [5]
+RA   Zhu Z., Roberts R.J.;
+RL   Unpublished observations.
+//
+
+ID   BstYI
+ET   R2
+AC   RB00598;
+OS   Bacillus stearothermophilus Y406
+PT   XhoII
+RS   RGATCY, 1;
+CR   N.
+RN   [1]
+RA   Chen Z., Kong H.;
+RL   FEBS Lett. 234:169-171(1988).
+RN   [2]
+RA   Xu S.-Y., Samuelson J., Pelletier J., Sibley M., Wilson G.G.;
+RL   (2002) US Patent Office.
+//
+
+ID   Bsu15I
+ET   R2
+AC   RB00608;
+OS   Bacillus subtilis 15
+PT   ClaI
+RS   ATCGAT, 2;
+CR   F.
+RN   [1]
+RA   Prichodko G.G., Petrov N.A., Repin V.E., Degtyarev S.K.;
+RL   Izv. Sib. Otd. Akad. Nauk SSSR 14:108-109(1988).
+//
+
+ID   CfrI
+ET   R2
+AC   RB00702;
+OS   Citrobacter freundii RFL2
+PT   CfrI
+RS   YGGCCR, 1;
+CR   F.
+RN   [1]
+RA   Janulaitis A., Stakenas P., Jaskeleviciene B., Lebedenko E.N., 
+RA   Berlin Y.A.;
+RL   Bioorg. Khim. 6:1746-1748(1980).
+RN   [2]
+RA   Janulaitis A., Stakenas P.S., Lebedenko E.N., Berlin Y.A.;
+RL   Nucleic Acids Res. 10:6521-6530(1982).
+RN   [3]
+RA   Janulaitis A., Stakenas P.S., Petrusyte M.P., Bitinaite J.B., 
+RA   Klimasauskas S.I., Butkus V.V.;
+RL   Mol. Biol. (Mosk) 18:115-129(1983).
+RN   [4]
+RA   Klimasauskas S., Butkus V., Janulaitis A.;
+RL   Mol. Biol. (Mosk) 21:87-92(1987).
+//
+
+ID   ClaI
+ET   R2
+AC   RB00716;
+OS   Caryophanon latum L
+PT   ClaI
+RS   ATCGAT, 2;
+CR   BHKMNRSU.
+RN   [1]
+RA   Longo M.C., Smith M.D., Chatterjee D.K.;
+RL   (1994) US Patent Office.
+RN   [2]
+RA   Mayer H., Grosschedl R., Schutte H., Hobom G.;
+RL   Nucleic Acids Res. 9:4833-4845(1981).
+RN   [3]
+RA   McClelland M.;
+RL   Nucleic Acids Res. 9:6795-6804(1981).
+RN   [4]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+//
+
+ID   DraI
+ET   R2
+AC   RB00778;
+OS   Deinococcus radiophilus
+PT   AhaIII
+RS   TTTAAA, 3;
+CR   BFIJKMNOQRSUVWXY.
+RN   [1]
+RA   Kur J.;
+RL   Acta Microbiol. Pol. 42:145-150(1993).
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Purvis I.J., Moseley B.E.B.;
+RL   Nucleic Acids Res. 11:5467-5474(1983).
+//
+
+ID   DraII
+ET   R2
+AC   RB00779;
+OS   Deinococcus radiophilus
+PT   DraII
+RS   RGGNCCY, 2;
+CR   MW.
+RN   [1]
+RA   de Wit C.M., Dekker B.M.M., Neele A.C., de Waard A.;
+RL   FEBS Lett. 180:219-223(1985).
+RN   [2]
+RA   Grosskopf R., Wolf W., Kessler C.;
+RL   Nucleic Acids Res. 13:1517-1528(1985).
+RN   [3]
+RA   Hansen R.;
+RL   Unpublished observations.
+//
+
+ID   EagI
+ET   R2
+AC   RB00802;
+OS   Enterobacter agglomerans
+PT   XmaIII
+RS   CGGCCG, 1;
+CR   NW.
+RN   [1]
+RA   Brooks J.E., Sznyter L.A.;
+RL   (1991) US Patent Office.
+RN   [2]
+RA   Morgan R., Camp R., Soltis A.;
+RL   Unpublished observations.
+RN   [3]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [4]
+RA   Xu S.-Y.;
+RL   Unpublished observations.
+//
+
+ID   Eco47I
+ET   R2
+AC   RB00930;
+OS   Escherichia coli RFL47
+PT   AvaII
+RS   GGWCC, 1;
+CR   FO.
+RN   [1]
+RA   Butkus V.V., Petrusyte M.P., Janulaitis A.;
+RL   Bioorg. Khim. 11:987-988(1985).
+RN   [2]
+RA   Duhring U., Enke H., Grundel M., Lockau W., Smith C.R., Woods P., 
+RA   Ziegler K., Oesterhelt C., Coleman J.R., Kramer D.;
+RL   (2009) International Patent Office.
+RN   [3]
+RA   Janulaitis A., Petrusyte M., Butkus V.;
+RL   FEBS Lett. 161:213-216(1983).
+RN   [4]
+RA   Lubys A., Pagarauskaite K.;
+RL   Unpublished observations.
+RN   [5]
+RA   Song J.;
+RL   Unpublished observations.
+//
+
+ID   Eco47III
+ET   R2
+AC   RB00932;
+OS   Escherichia coli RFL47
+PT   Eco47III
+RS   AGCGCT, 3;
+CR   FMORW.
+RN   [1]
+RA   Janulaitis A., Petrusyte M., Butkus V.;
+RL   FEBS Lett. 161:213-216(1983).
+//
+
+ID   Eco147I
+ET   R2
+AC   RB00853;
+OS   Escherichia coli RFL147
+PT   StuI
+RS   AGGCCT, 3;
+CR   F.
+RN   [1]
+RA   Gilvonauskaite R., Maneliene Z., Padegimiene A., Petrusyte M., 
+RA   Janulaitis A.;
+RL   Unpublished observations.
+RN   [2]
+RA   Janulaitis A., Gilvonauskaite R., Petrusyte M.;
+RL   Unpublished observations.
+//
+
+ID   EcoRI
+ET   R2
+AC   RB00993;
+OS   Escherichia coli RY13
+PT   EcoRI
+RS   GAATTC, 1;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Albertsen H.M., Le Paslier D., Abderrahim H., Dausset J., Cann H., 
+RA   Cohen D.;
+RL   Nucleic Acids Res. 17:808-808(1989).
+RN   [2]
+RA   Dugaiczyk A., Hedgpeth J., Boyer H.W., Goodman H.M.;
+RL   Biochemistry 13:503-512(1974).
+RN   [3]
+RA   Forrow S., Lee M., Souhami R.L., Hartley J.A.;
+RL   ACS Abstracts 208:97-97(1994).
+RN   [4]
+RA   Greene P.J., Betlach M.C., Boyer H.W., Goodman H.M.;
+RL   Methods Mol. Biol. 7:87-105(1974).
+RN   [5]
+RA   Hedgpeth J., Goodman H.M., Boyer H.W.;
+RL   Proc. Natl. Acad. Sci. U. S. A. 69:3448-3452(1972).
+RN   [6]
+RA   Pingoud A., Alves J., Fliess A., Geiger R., Rueter T., Wolfes H.;
+RL   Biol. Chem. Hoppe Seyler 368:1093-1093(1987).
+RN   [7]
+RA   Tanaka M.;
+RL   (2002) Japanese Patent Office.
+RN   [8]
+RA   Winkler F.K.;
+RL   J. Mol. Recognit. 6:9-9(1994).
+//
+
+ID   EcoRV
+ET   R2
+AC   RB00995;
+OS   Escherichia coli J62 pLG74
+PT   EcoRV
+RS   GATATC, 3;
+CR   BCHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Baldwin G.S., Halford S.E.;
+RL   Biochem. Soc. Trans. 22:300S-300S(1994).
+RN   [2]
+RA   Erskine S.G., Halford S.E.;
+RL   Biochem. Soc. Trans. 22:299s-299s(1994).
+RN   [3]
+RA   Forrow S., Lee M., Souhami R.L., Hartley J.A.;
+RL   ACS Abstracts 208:97-97(1994).
+RN   [4]
+RA   Kholmina G.V., Rebentish B.A., Skoblov Y.S., Mironov A.A., 
+RA   Yankovskii N.K., Kozlov Y.I., Glatmann L.I., Moroz A.F., Debabov V.G.;
+RL   Dokl. Akad. Nauk. 253:495-497(1980).
+RN   [5]
+RA   Nwosu V.U., Connolly B.A., Halford S.E., Garnett J.;
+RL   Nucleic Acids Res. 16:3705-3720(1988).
+RN   [6]
+RA   Schildkraut I., Banner C.D.B., Rhodes C.S., Parekh S.;
+RL   Gene 27:327-329(1984).
+RN   [7]
+RA   Vipond I.B., Moon B.J., Halford S.E.;
+RL   Biochem. Soc. Trans. 22:301S-301S(1994).
+RN   [8]
+RA   Winkler F.K.;
+RL   J. Mol. Recognit. 6:9-9(1994).
+RN   [9]
+RA   Zakharova M.V.;
+RL   Unpublished observations.
+//
+
+ID   EheI
+ET   R2
+AC   RB01004;
+OS   Erwinia herbicola 9/5
+PT   NarI
+RS   GGCGCC, 3;
+CR   FO.
+RN   [1]
+RA   Kulba A.M., Abdel-Sabur M.S., Butkus V.V., Janulaitis A., Fomichev Y.K.;
+RL   Mol. Biol. (Mosk) 21:250-254(1987).
+//
+
+ID   FokI
+ET   R2
+AC   RB01056;
+OS   Flavobacterium okeanokoites
+PT   FokI
+RS   GGATG, 14; CATCC, -13;
+CR   IJKMNQRVWX.
+RN   [1]
+RA   Landry D., Looney M.C., Feehery G.R., Slatko B.E., Jack W.E., 
+RA   Schildkraut I., Wilson G.G.;
+RL   Gene 77:1-10(1989).
+RN   [2]
+RA   Li L., Wu L.P., Clarke R., Chandrasegaran S.;
+RL   Gene 133:79-84(1993).
+RN   [3]
+RA   Steenstrup T.D., Norby P.L.;
+RL   (2007) International Patent Office.
+RN   [4]
+RA   Sugisaki H., Kanazawa S.;
+RL   Gene 16:73-78(1981).
+//
+
+ID   FspI
+ET   R2
+AC   RB01063;
+OS   Fischerella species
+PT   MstI
+RS   TGCGCA, 3;
+CR   JNO.
+RN   [1]
+RA   Christ C., Ingalls D.;
+RL   Unpublished observations.
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Szekeres M.;
+RL   Unpublished observations.
+RN   [4]
+RA   Wilson G.G., Meda M.M.;
+RL   (1993) US Patent Office.
+//
+
+ID   HaeI
+ET   R2
+AC   RB01087;
+OS   Haemophilus aegyptius
+PT   HaeI
+RS   WGGCCW, 3;
+CR   .
+RN   [1]
+RA   Murray K., Morrison A., Cooke H.W., Roberts R.J.;
+RL   Unpublished observations.
+//
+
+ID   HaeII
+ET   R2
+AC   RB01088;
+OS   Haemophilus aegyptius
+PT   HaeII
+RS   RGCGCY, 5;
+CR   JKNORW.
+RN   [1]
+RA   Roberts R.J., Breitmeyer J.B., Tabachnik N.F., Myers P.A.;
+RL   J. Mol. Biol. 91:121-123(1975).
+RN   [2]
+RA   Tu C.-P.D., Roychoudhury R., Wu R.;
+RL   Biochem. Biophys. Res. Commun. 72:355-362(1976).
+//
+
+ID   HaeIII
+ET   R2
+AC   RB01089;
+OS   Haemophilus aegyptius
+PT   HaeIII
+RS   GGCC, 2;
+CR   BHIJKMNOQRSUWXY.
+RN   [1]
+RA   Bron S., Murray K.;
+RL   Mol. Gen. Genet. 143:25-33(1975).
+RN   [2]
+RA   Mann M.B., Smith H.O.;
+RL   Nucleic Acids Res. 4:4211-4221(1977).
+RN   [3]
+RA   Middleton J.H., Edgell M.H., Hutchison C.A. III;
+RL   J. Virol. 10:42-50(1972).
+//
+
+ID   HhaI
+ET   R2
+AC   RB01117;
+OS   Haemophilus haemolyticus
+PT   HhaI
+RS   GCGC, 3;
+CR   BFJKNORUWY.
+RN   [1]
+RA   Mann M.B., Smith H.O.;
+RL   (1979) Proceedings of the Conference on Transmethylation, Elsevier North Holland, 483-492.
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Roberts R.J., Myers P.A., Morrison A., Murray K.;
+RL   J. Mol. Biol. 103:199-208(1976).
+//
+
+ID   HincII
+ET   R2
+AC   RB01148;
+OS   Haemophilus influenzae Rc
+PT   HindII
+RS   GTYRAC, 3;
+CR   BFHJKNOQRUWXY.
+RN   [1]
+RA   Benner J.S., Rees P.A.;
+RL   (1995) European Patent Office.
+RN   [2]
+RA   Ito H., Sadaoka A.;
+RL   (1991) Japanese Patent Office.
+RN   [3]
+RA   Ito H., Sadaoka A., Kotani H., Hiraoka N., Nakamura T.;
+RL   Nucleic Acids Res. 18:3903-3911(1990).
+RN   [4]
+RA   Landy A., Ruedisueli E., Robinson L., Foeller C., Ross W.;
+RL   Biochemistry 13:2134-2142(1974).
+//
+
+ID   HindIII
+ET   R2
+AC   RB01151;
+OS   Haemophilus influenzae Rd (exo-mutant)
+PT   HindIII
+RS   AAGCTT, 1;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Fleischmann R.D. et al.;
+RL   Science 269:496-512(1995).
+RN   [2]
+RA   Fleischmann R.D., Adams M.D., White O., Smith H.O., Venter J.C.;
+RL   (2004) Japanese Patent Office.
+RN   [3]
+RA   Fleischmann R.D., Adams M.D., White O., Smith H.O., Venter J.C.;
+RL   (2003) US Patent Office.
+RN   [4]
+RA   Fleischmann R.D., Adams M.D., White O., Smith H.O., Venter J.C.;
+RL   (2005) US Patent Office.
+RN   [5]
+RA   Old R., Murray K., Roizes G.;
+RL   J. Mol. Biol. 92:331-339(1975).
+RN   [6]
+RA   Roy P.H., Smith H.O.;
+RL   J. Mol. Biol. 81:445-459(1973).
+//
+
+ID   HinfI
+ET   R2
+AC   RB01154;
+OS   Haemophilus influenzae Rf
+PT   HinfI
+RS   GANTC, 1;
+CR   BCFHIJKMNOQRUVWXY.
+RN   [1]
+RA   Chandrasegaran S., Lunnen K.D., Smith H.O., Wilson G.G.;
+RL   Gene 70:387-392(1988).
+RN   [2]
+RA   Huang L.-H., Farnet C.M., Ehrlich K.C., Ehrlich M.;
+RL   Nucleic Acids Res. 10:1579-1591(1982).
+RN   [3]
+RA   Hutchison C.A., Barrell B.G.;
+RL   Unpublished observations.
+RN   [4]
+RA   Middleton J.H., Stankus P.V., Edgell M.H., Hutchison C.A. III;
+RL   Unpublished observations.
+RN   [5]
+RA   Murray K., Morrison A.;
+RL   Unpublished observations.
+RN   [6]
+RA   Treml S., Draveling C., Huang C., Heaster J., Walker D., DiFrancesco R., 
+RA   Jolly J.;
+RL   Clin. Chem. 40:1092-1092(1994).
+RN   [7]
+RA   Wilson G.G.;
+RL   (1993) US Patent Office.
+//
+
+ID   HpaI
+ET   R2
+AC   RB01158;
+OS   Haemophilus parainfluenzae
+PT   HpaI
+RS   GTTAAC, 3;
+CR   BCHIJKMNOQRSUVWX.
+RN   [1]
+RA   Benner J.S., Rees P.;
+RL   (1995) European Patent Office.
+RN   [2]
+RA   Benner J.S., Rees P.;
+RL   (1994) US Patent Office.
+RN   [3]
+RA   Garfin D.E., Goodman H.M.;
+RL   Biochem. Biophys. Res. Commun. 59:108-116(1974).
+RN   [4]
+RA   Ito H., Shimado H., Kimizuka F., Kato I.;
+RL   (1993) Japanese Patent Office.
+RN   [5]
+RA   Sharp P.A., Sugden B., Sambrook J.;
+RL   Biochemistry 12:3055-3063(1973).
+RN   [6]
+RA   Yoo O.J., Dwyer-Hallquist P., Agarwal K.L.;
+RL   Nucleic Acids Res. 10:6511-6519(1982).
+//
+
+ID   HpaII
+ET   R2
+AC   RB01159;
+OS   Haemophilus parainfluenzae
+PT   HpaII
+RS   CCGG, 1;
+CR   BFIMNOQRSUVWX.
+RN   [1]
+RA   Butkus V., Petrauskiene L., Maneliene Z., Klimasauskas S., Laucys V., 
+RA   Janulaitis A.;
+RL   Nucleic Acids Res. 15:7091-7102(1987).
+RN   [2]
+RA   Chatterjee D.K.;
+RL   (1993) US Patent Office.
+RN   [3]
+RA   Garfin D.E., Goodman H.M.;
+RL   Biochem. Biophys. Res. Commun. 59:108-116(1974).
+RN   [4]
+RA   Kulakauskas S., Barsomian J.M., Lubys A., Roberts R.J., Wilson G.G.;
+RL   Gene 142:9-15(1994).
+RN   [5]
+RA   Mann M.B., Smith H.O.;
+RL   Nucleic Acids Res. 4:4211-4221(1977).
+RN   [6]
+RA   Sharp P.A., Sugden B., Sambrook J.;
+RL   Biochemistry 12:3055-3063(1973).
+RN   [7]
+RA   Som S., Friedman S.;
+RL   J. Biol. Chem. 269:25986-25991(1994).
+//
+
+ID   KpnI
+ET   R2
+AC   RB01180;
+OS   Klebsiella pneumoniae OK8
+PT   KpnI
+RS   GGTACC, 5;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Kiss A., Finta C., Venetianer P.;
+RL   Nucleic Acids Res. 19:3460-3460(1991).
+RN   [2]
+RA   Smith D.I., Blattner F.R., Davies J.;
+RL   Nucleic Acids Res. 3:343-353(1976).
+RN   [3]
+RA   Tomassini J., Roychoudhury R., Wu R., Roberts R.J.;
+RL   Nucleic Acids Res. 5:4055-4064(1978).
+RN   [4]
+RA   Xu S.-Y.;
+RL   Unpublished observations.
+//
+
+ID   Kpn2I
+ET   R2
+AC   RB01177;
+OS   Klebsiella pneumoniae RFL2
+PT   BspMII
+RS   TCCGGA, 1;
+CR   F.
+RN   [1]
+RA   Janulaitis A., Gilvonauskaite R., Petrusyte M.;
+RL   Unpublished observations.
+RN   [2]
+RA   Lubys A., Jurenaite S., Janulaitis A.;
+RL   Nucleic Acids Res. 27:4228-4234(1999).
+//
+
+ID   Kzo9I
+ET   R2
+AC   RB01186;
+OS   Kurthia zopfii 9
+PT   MboI
+RS   GATC, 0;
+CR   I.
+RN   [1]
+RA   Degtyarev S.K., Rechkunova N.I., Grinev A.A., Dedkov V.S.;
+RL   Izv. Sib. Otd. Akad. Nauk SSSR 15:25-26(1989).
+//
+
+ID   MboI
+ET   R2
+AC   RB01204;
+OS   Moraxella bovis
+PT   MboI
+RS   GATC, 0;
+CR   BCFKNQRUWXY.
+RN   [1]
+RA   Anton B.P., Brooks J.E.;
+RL   Unpublished observations.
+RN   [2]
+RA   Gelinas R.E., Myers P.A., Roberts R.J.;
+RL   J. Mol. Biol. 114:169-179(1977).
+RN   [3]
+RA   Huang L.-H., Farnet C.M., Ehrlich K.C., Ehrlich M.;
+RL   Nucleic Acids Res. 10:1579-1591(1982).
+RN   [4]
+RA   Ueno T., Ito H., Kimizuka F., Kotani H., Nakajima K.;
+RL   Nucleic Acids Res. 21:2309-2313(1993).
+RN   [5]
+RA   Ueno T., Ito H., Kotani H., Nakajima K.;
+RL   (1993) Japanese Patent Office.
+//
+
+ID   MboII
+ET   R2
+AC   RB01205;
+OS   Moraxella bovis
+PT   MboII
+RS   GAAGA, 13; TCTTC, -7;
+CR   FIJKNOQRVWX.
+RN   [1]
+RA   Brown N.L., Hutchison C.A. III, Smith M.;
+RL   J. Mol. Biol. 140:143-148(1980).
+RN   [2]
+RA   Endow S.A.;
+RL   J. Mol. Biol. 114:441-449(1977).
+RN   [3]
+RA   Gelinas R.E., Myers P.A., Roberts R.J.;
+RL   J. Mol. Biol. 114:169-179(1977).
+RN   [4]
+RA   McClelland M., Nelson M., Cantor C.R.;
+RL   Nucleic Acids Res. 13:7171-7182(1985).
+//
+
+ID   MfeI
+ET   R2
+AC   RB01213;
+OS   Mycoplasma fermentans
+PT   MfeI
+RS   CAATTG, 1;
+CR   N.
+RN   [1]
+RA   Halden N.F., Wolf J.B., Cross S.L., Leonard W.J.;
+RL   Clin. Res. 36:404a-404a(1988).
+RN   [2]
+RA   Halden N.F., Wolf J.B., Leonard W.J.;
+RL   Nucleic Acids Res. 17:3491-3499(1989).
+RN   [3]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [4]
+RA   Zhu Z., Blanchard A., Xu S.-Y., Guan S., Wei H., Zhang P., Sun D., 
+RA   Chan S.-h.;
+RL   (2009) International Patent Office.
+//
+
+ID   MluI
+ET   R2
+AC   RB01236;
+OS   Micrococcus luteus
+PT   MluI
+RS   ACGCGT, 1;
+CR   BFHIJKMNOQRSUVWX.
+RN   [1]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [2]
+RA   Sugisaki H., Kanazawa S.;
+RL   Gene 16:73-78(1981).
+//
+
+ID   MscI
+ET   R2
+AC   RB01261;
+OS   Micrococcus species
+PT   BalI
+RS   TGGCCA, 3;
+CR   BNO.
+RN   [1]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [2]
+RA   Polisson C.;
+RL   Nucleic Acids Res. 17:5858-5858(1989).
+//
+
+ID   MspI
+ET   R2
+AC   RB01277;
+OS   Moraxella species
+PT   HpaII
+RS   CCGG, 1;
+CR   FHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Butkus V., Petrauskiene L., Maneliene Z., Klimasauskas S., Laucys V., 
+RA   Janulaitis A.;
+RL   Nucleic Acids Res. 15:7091-7102(1987).
+RN   [2]
+RA   Jentsch S., Gunthert U., Trautner T.A.;
+RL   Nucleic Acids Res. 9:2753-2759(1981).
+RN   [3]
+RA   Schildkraut I., Greenough L.;
+RL   Unpublished observations.
+RN   [4]
+RA   Van Montagu M., Sciaky D., Myers P.A., Roberts R.J.;
+RL   Unpublished observations.
+//
+
+ID   NarI
+ET   R2
+AC   RB01298;
+OS   Nocardia argentinensis
+PT   NarI
+RS   GGCGCC, 2;
+CR   JMNOQRUWX.
+RN   [1]
+RA   Comb D.G., Wilson G., Schildkraut I., Greenough L.;
+RL   Unpublished observations.
+RN   [2]
+RA   Zhu Z.;
+RL   Unpublished observations.
+RN   [3]
+RA   Zhu Z., Roberts R.J.;
+RL   Unpublished observations.
+//
+
+ID   NcoI
+ET   R2
+AC   RB01308;
+OS   Nocardia corallina
+PT   NcoI
+RS   CCATGG, 1;
+CR   BCFHJKMNOQRSUWXY.
+RN   [1]
+RA   Langdale J.A., Myers P.A., Roberts R.J.;
+RL   Unpublished observations.
+RN   [2]
+RA   VanCott E.M.;
+RL   (1995) European Patent Office.
+//
+
+ID   NdeI
+ET   R2
+AC   RB01312;
+OS   Neisseria denitrificans
+PT   NdeI
+RS   CATATG, 2;
+CR   BFJKMNQRSWXY.
+RN   [1]
+RA   Benner J.S.;
+RL   Unpublished observations.
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Watson R.J., Schildkraut I., Qiang B.-Q., Martin S.M., Visentin L.P.;
+RL   FEBS Lett. 150:114-116(1982).
+//
+
+ID   NheI
+ET   R2
+AC   RB01335;
+OS   Neisseria mucosa
+PT   NheI
+RS   GCTAGC, 1;
+CR   BCFJKMNORSUW.
+RN   [1]
+RA   Comb D.G., Grandoni R., Schildkraut I.;
+RL   Unpublished observations.
+//
+
+ID   NlaIII
+ET   R2
+AC   RB01341;
+OS   Neisseria lactamica
+PT   NlaIII
+RS   CATG, 4;
+CR   NW.
+RN   [1]
+RA   Labbe D., Holtke H.J., Lau P.C.K.;
+RL   Mol. Gen. Genet. 224:101-110(1990).
+RN   [2]
+RA   Morgan R.D.;
+RL   (1995) European Patent Office.
+RN   [3]
+RA   Qiang B.-Q., Schildkraut I.;
+RL   Nucleic Acids Res. 14:1991-1999(1986).
+//
+
+ID   NotI
+ET   R2
+AC   RB01367;
+OS   Nocardia otitidis-caviarum
+PT   NotI
+RS   GCGGCCGC, 2;
+CR   BCFHJKMNOQRSUWXY.
+RN   [1]
+RA   Borsetti R., Wise D., Qiang B.-Q., Schildkraut I.;
+RL   Unpublished observations.
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Qiang B.-Q., Schildkraut I.;
+RL   Methods Enzymol. 155:15-21(1987).
+//
+
+ID   NruI
+ET   R2
+AC   RB01371;
+OS   Nocardia rubra
+PT   NruI
+RS   TCGCGA, 3;
+CR   BCIJKMNOQRUWX.
+RN   [1]
+RA   Comb D.G., Schildkraut I., Greenough L.;
+RL   Unpublished observations.
+RN   [2]
+RA   Forrow S., Lee M., Souhami R.L., Hartley J.A.;
+RL   ACS Abstracts 208:97-97(1994).
+RN   [3]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [4]
+RA   Zhu Z.;
+RL   Unpublished observations.
+//
+
+ID   NsiI
+ET   R2
+AC   RB01375;
+OS   Neisseria sicca
+PT   AvaIII
+RS   ATGCAT, 5;
+CR   BHJMNRSUW.
+RN   [1]
+RA   Schildkraut I., Jones G., Parker P., Grandoni R., Comb D.G.;
+RL   Unpublished observations.
+RN   [2]
+RA   Xia Y., Van Etten J.L., Dobos P., Ling Y.Y., Krell P.J.;
+RL   Virology 196:817-824(1993).
+RN   [3]
+RA   Zhu Z.;
+RL   Unpublished observations.
+//
+
+ID   PaeI
+ET   R2
+AC   RB01448;
+OS   Pseudomonas aeruginosa
+PT   SphI
+RS   GCATGC, 5;
+CR   F.
+RN   [1]
+RA   Sokolov N.N., Fitsner A.B., Anikeitcheva N.V., Choroshoutina Y.B., 
+RA   Samko O.T., Kolosha V.O., Fodor I., Votrin I.I.;
+RL   Mol. Biol. Rep. 10:159-161(1985).
+//
+
+ID   PflMI
+ET   R2
+AC   RB01475;
+OS   Pseudomonas fluorescens
+PT   PflMI
+RS   CCANNNNNTGG, 7;
+CR   N.
+RN   [1]
+RA   Morgan R.D.;
+RL   Unpublished observations.
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Nwankwo D.;
+RL   Unpublished observations.
+//
+
+ID   PspALI
+ET   R2
+AC   RB02680;
+OS   Pseudomonas species AL1637
+PT   SmaI
+RS   CCCGGG, 3;
+CR   .
+RN   [1]
+RA   Belichenko O.A., Shevchenko A.V., Abdurashitov M.A., Degtyarev S.K.;
+RL   Unpublished observations.
+//
+
+ID   PspOMI
+ET   R2
+AC   RB02683;
+OS   Pseudomonas species OM2164
+PT   ApaI
+RS   GGGCCC, 1;
+CR   INV.
+RN   [1]
+RA   Belichenko O.A., Shevchenko A.V., Abdurashitov M.A., Degtyarev S.K.;
+RL   Unpublished observations.
+//
+
+ID   PstI
+ET   R2
+AC   RB01536;
+OS   Providencia stuartii 164
+PT   PstI
+RS   CTGCAG, 5;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Brown N.L., Smith M.;
+RL   FEBS Lett. 65:284-287(1976).
+RN   [2]
+RA   Handique A.K.;
+RL   Curr. Sci. 66:103-104(1994).
+RN   [3]
+RA   Sagawa H., Ohshima A., Kato I.;
+RL   Nucleic Acids Res. 23:2367-2370(1995).
+RN   [4]
+RA   Smith D.I., Blattner F.R., Davies J.;
+RL   Nucleic Acids Res. 3:343-353(1976).
+RN   [5]
+RA   Treml S., Draveling C., Huang C., Heaster J., Walker D., DiFrancesco R., 
+RA   Jolly J.;
+RL   Clin. Chem. 40:1092-1092(1994).
+RN   [6]
+RA   Walder R.Y., Walder J.A., Donelson J.E.;
+RL   J. Biol. Chem. 259:8015-8026(1984).
+RN   [7]
+RA   Xia Y., Van Etten J.L., Dobos P., Ling Y.Y., Krell P.J.;
+RL   Virology 196:817-824(1993).
+//
+
+ID   PvuI
+ET   R2
+AC   RB01541;
+OS   Proteus vulgaris
+PT   PvuI
+RS   CGATCG, 4;
+CR   BFKMNOQRSUWXY.
+RN   [1]
+RA   Gingeras T.R., Greenough L., Schildkraut I., Roberts R.J.;
+RL   Nucleic Acids Res. 9:4525-4536(1981).
+RN   [2]
+RA   Katsuragi N.T., Kawakami B., Maekawa Y.;
+RL   (1994) European Patent Office.
+RN   [3]
+RA   Lunnen K.D., Wilson G.G.;
+RL   Unpublished observations.
+RN   [4]
+RA   Smith M.D., Longo M., Gerard G.F., Chatterjee D.K.;
+RL   Nucleic Acids Res. 20:5743-5747(1992).
+//
+
+ID   PvuII
+ET   R2
+AC   RB01542;
+OS   Proteus vulgaris
+PT   PvuII
+RS   CAGCTG, 3;
+CR   BCFHIJKMNORSUVWXY.
+RN   [1]
+RA   Butkus V., Klimasauskas S., Petrauskiene L., Maneliene Z., Lebionka A., 
+RA   Janulaitis A.;
+RL   Biochim. Biophys. Acta 909:201-207(1987).
+RN   [2]
+RA   Gingeras T.R., Greenough L., Schildkraut I., Roberts R.J.;
+RL   Nucleic Acids Res. 9:4525-4536(1981).
+RN   [3]
+RA   Kyune C., Shimonchitoshu A.;
+RL   (2006) Japanese Patent Office.
+RN   [4]
+RA   Rice M.R., Calvin-Koons M.D., Blumenthal R.M.;
+RL   FASEB J. 9:A1400-A1400(1995).
+//
+
+ID   RsaI
+ET   R2
+AC   RB01567;
+OS   Rhodopseudomonas sphaeroides
+PT   RsaI
+RS   GTAC, 2;
+CR   BCFHIJMNOQRSVWXY.
+RN   [1]
+RA   Lunnen K.D., Meixsell T., Morgan R.D., Wilson G.G.;
+RL   (2001) European Patent Office.
+RN   [2]
+RA   Lunnen K.D., Wilson G.G.;
+RL   Unpublished observations.
+RN   [3]
+RA   Lynn S.P., Cohen L.K., Kaplan S., Gardner J.F.;
+RL   J. Bacteriol. 142:380-383(1980).
+//
+
+ID   RsrII
+ET   R2
+AC   RB01573;
+OS   Rhodopseudomonas sphaeroides
+PT   RsrII
+RS   CGGWCCG, 2;
+CR   MNQX.
+RN   [1]
+RA   Morgan R.D.;
+RL   Unpublished observations.
+RN   [2]
+RA   O'Connor C.D., Metcalf E., Wrighton C.J., Harris T.J.R., Saunders J.R.;
+RL   Nucleic Acids Res. 12:6701-6708(1984).
+//
+
+ID   SacI
+ET   R2
+AC   RB01578;
+OS   Streptomyces achromogenes
+PT   SacI
+RS   GAGCTC, 5;
+CR   FHJKMNOQRSUWX.
+RN   [1]
+RA   Arrand J.R., Myers P.A., Roberts R.J.;
+RL   Unpublished observations.
+//
+
+ID   SacII
+ET   R2
+AC   RB01579;
+OS   Streptomyces achromogenes
+PT   SacII
+RS   CCGCGG, 4;
+CR   HJKNOQRWX.
+RN   [1]
+RA   Arrand J.R., Myers P.A., Roberts R.J.;
+RL   Unpublished observations.
+RN   [2]
+RA   Benner J., Lunnen K.;
+RL   Unpublished observations.
+RN   [3]
+RA   Guthrie E., Meda M.;
+RL   (1995) European Patent Office.
+RN   [4]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+//
+
+ID   SalI
+ET   R2
+AC   RB01588;
+OS   Streptomyces albus G
+PT   SalI
+RS   GTCGAC, 1;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Arrand J.R., Myers P.A., Roberts R.J.;
+RL   J. Mol. Biol. 118:127-135(1978).
+RN   [2]
+RA   Rodicio M.R., Quinton-Jager T., Moran L.S., Slatko B.E., Wilson G.G.;
+RL   Gene 151:167-172(1994).
+//
+
+ID   Sau96I
+ET   R2
+AC   RB01607;
+OS   Staphylococcus aureus PS96
+PT   AsuI
+RS   GGNCC, 1;
+CR   JNOUW.
+RN   [1]
+RA   Sussenbach J.S., Steenbergh P.H., Rost J.A., van Leeuwen W.J., 
+RA   van Embden J.D.A.;
+RL   Nucleic Acids Res. 5:1153-1163(1978).
+RN   [2]
+RA   Szilak L., Venetianer P., Kiss A.;
+RL   Nucleic Acids Res. 18:4659-4664(1990).
+//
+
+ID   Sau3AI
+ET   R2
+AC   RB01604;
+OS   Staphylococcus aureus 3A
+PT   MboI
+RS   GATC, 0;
+CR   CHJKMNORSUWX.
+RN   [1]
+RA   Lebenka A.Y., Rackus Y.A.;
+RL   Biokhimiia 54:1009-1014(1989).
+RN   [2]
+RA   Mohn W.W., Teather R.M.;
+RL   Gene 155:131-132(1995).
+RN   [3]
+RA   Sussenbach J.S., Monfoort C.H., Schiphof R., Stobberingh E.E.;
+RL   Nucleic Acids Res. 3:3193-3202(1976).
+//
+
+ID   ScaI
+ET   R2
+AC   RB01628;
+OS   Streptomyces caespitosus
+PT   ScaI
+RS   AGTACT, 3;
+CR   BCFJKMNOQRSWX.
+RN   [1]
+RA   Grandoni R.P., Schildkraut I.;
+RL   Unpublished observations.
+RN   [2]
+RA   Takahashi H., Kojima H., Saito H.;
+RL   Biochem. J. 231:229-232(1985).
+RN   [3]
+RA   Xu S.-Y., Xiao J.-P.;
+RL   Unpublished observations.
+//
+
+ID   SdaI
+ET   R2
+AC   RB02946;
+OS   Streptomyces diastaticus Ng7-324
+PT   Sse8387I
+RS   CCTGCAGG, 6;
+CR   F.
+RN   [1]
+RA   Sapranauskas R., Vitkute J., Jakubauskas A.;
+RL   Unpublished observations.
+RN   [2]
+RA   Vitkute J., Markauskiene J., Maneliene Z., Trinkunaite L., Kiuduliene L., 
+RA   Butkus V., Janulaitis V.;
+RL   Unpublished observations.
+//
+
+ID   SduI
+ET   R2
+AC   RB01641;
+OS   Streptococcus durans RFL3
+PT   SduI
+RS   GDGCHC, 5;
+CR   F.
+RN   [1]
+RA   Janulaitis A., Marcinkeviciene L., Petrusyte M., Mironov A.;
+RL   FEBS Lett. 134:172-174(1981).
+RN   [2]
+RA   Kraev A.S., Zimin A.A., Mironova M.V., Janulaitis A., Tanyashin V.I., 
+RA   Skryabin K.G., Bayev A.A.;
+RL   Dokl. Akad. Nauk. 270:1495-1500(1983).
+//
+
+ID   SfiI
+ET   R2
+AC   RB01655;
+OS   Streptomyces fimbriatus
+PT   SfiI
+RS   GGCCNNNNNGGCC, 8;
+CR   CFIJKMNOQRSUVWX.
+RN   [1]
+RA   Qiang B.-Q., Schildkraut I.;
+RL   Nucleic Acids Res. 12:4507-4515(1984).
+RN   [2]
+RA   Sasaki A., Oka M., Shigenori M.;
+RL   (1992) Japanese Patent Office.
+RN   [3]
+RA   Vancott E.M.;
+RL   (1995) European Patent Office.
+RN   [4]
+RA   Wentzell L.M., Oram M., Halford S.E.;
+RL   Biochem. Soc. Trans. 22:302S-302S(1994).
+//
+
+ID   SmaI
+ET   R2
+AC   RB01704;
+OS   Serratia marcescens Sb
+PT   SmaI
+RS   CCCGGG, 3;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Endow S.A., Roberts R.J.;
+RL   J. Mol. Biol. 112:521-529(1977).
+RN   [2]
+RA   Greene R., Mulder C.;
+RL   Unpublished observations.
+RN   [3]
+RA   Klimasauskas S., Steponaviciene D., Maneliene Z., Petrusyte M., Butkus V., 
+RA   Janulaitis A.;
+RL   Nucleic Acids Res. 18:6607-6609(1990).
+//
+
+ID   SnaI
+ET   R2
+AC   RB01708;
+OS   Sphaerotilus natans C
+PT   SnaI
+RS   GTATAC, ?;
+CR   .
+RN   [1]
+RA   Pope A., Lynn S.P., Gardner J.F.;
+RL   Unpublished observations.
+//
+
+ID   SnaBI
+ET   R2
+AC   RB01707;
+OS   Sphaerotilus natans
+PT   SnaBI
+RS   TACGTA, 3;
+CR   CKMNR.
+RN   [1]
+RA   Borsetti R., Grandoni R., Schildkraut I.;
+RL   Unpublished observations.
+RN   [2]
+RA   Lunnen K.D., Wilson G.G.;
+RL   Unpublished observations.
+//
+
+ID   SpeI
+ET   R2
+AC   RB01717;
+OS   Sphaerotilus natans
+PT   SpeI
+RS   ACTAGT, 1;
+CR   BHJKMNOQRSUWX.
+RN   [1]
+RA   Comb D.G., Grandoni R.;
+RL   Unpublished observations.
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+//
+
+ID   SphI
+ET   R2
+AC   RB01719;
+OS   Streptomyces phaeochromogenes
+PT   SphI
+RS   GCATGC, 5;
+CR   BCHIJKMNOQRSVWX.
+RN   [1]
+RA   Bhattacharya S.K., Dubey A.K.;
+RL   Biotechnol. Appl. Biochem. 20:141-146(1994).
+RN   [2]
+RA   Fuchs L.Y., Covarrubias L., Escalante L., Sanchez S., Bolivar F.;
+RL   Gene 10:39-46(1980).
+//
+
+ID   SspI
+ET   R2
+AC   RB01746;
+OS   Sphaerotilus species
+PT   SspI
+RS   AATATT, 3;
+CR   BCFIJKMNOQRSUVWX.
+RN   [1]
+RA   Schildkraut I., Grandoni R.;
+RL   Unpublished observations.
+//
+
+ID   SstI
+ET   R2
+AC   RB01759;
+OS   Streptomyces stanford
+PT   SacI
+RS   GAGCTC, 5;
+CR   BC.
+RN   [1]
+RA   Goff S.P., Rambach A.;
+RL   Gene 3:347-352(1978).
+RN   [2]
+RA   Muller F., Stoffel S., Clarkson S.G.;
+RL   Unpublished observations.
+//
+
+ID   StuI
+ET   R2
+AC   RB01785;
+OS   Streptomyces tubercidicus
+PT   StuI
+RS   AGGCCT, 3;
+CR   BJKMNQRUX.
+RN   [1]
+RA   Casjens S., Hayden M., Jackson E., Deans R.;
+RL   J. Virol. 45:864-867(1983).
+RN   [2]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [3]
+RA   Shimotsu H., Takahashi H., Saito H.;
+RL   Gene 11:219-225(1980).
+RN   [4]
+RA   Zhu Z.;
+RL   Unpublished observations.
+//
+
+ID   TaqI
+ET   R2
+AC   RB01801;
+OS   Thermus aquaticus YTI
+PT   TaqI
+RS   TCGA, 1;
+CR   BCFIJKMNOQRSUVWXY.
+RN   [1]
+RA   Anton B.P., Brooks J.E.;
+RL   Unpublished observations.
+RN   [2]
+RA   Fomenkov A., Xiao J.-P., Dila D., Raleigh E., Xu S.-Y.;
+RL   Nucleic Acids Res. 22:2399-2403(1994).
+RN   [3]
+RA   McClelland M.;
+RL   Nucleic Acids Res. 9:6795-6804(1981).
+RN   [4]
+RA   Sato S., Hutchison C.A. III, Harris J.I.;
+RL   Proc. Natl. Acad. Sci. U. S. A. 74:542-546(1977).
+RN   [5]
+RA   Zebala J.A.;
+RL   Diss. Abstr. 54:1394-1398(1993).
+//
+
+ID   Tth111I
+ET   R2
+AC   RB01829;
+OS   Thermus thermophilus strain 111
+PT   Tth111I
+RS   GACNNNGTC, 4;
+CR   IKNQRVWX.
+RN   [1]
+RA   Morgan R.D., Roberts R.J.;
+RL   (2007) International Patent Office.
+RN   [2]
+RA   Shinomiya T., Sato S.;
+RL   Nucleic Acids Res. 8:43-56(1980).
+//
+
+ID   Vha464I
+ET   R2
+AC   RB02113;
+OS   Vibrio harveyi 464
+PT   AflII
+RS   CTTAAG, 1;
+CR   V.
+RN   [1]
+RA   Kolykhalov A.A., Repin V.E., Fish A.M., Rechkunova N.I., Degtyarev S.Kh.;
+RL   Sib. Biol. J. 19:60-61(1991).
+RN   [2]
+RA   Repin V.E., Degtyarev S.K., Rechkunova N.I., Krivopalova G.N., 
+RA   Vorodeva T.I., Fish A.M.;
+RL   (1993) Russian Patent Office.
+//
+
+ID   VneI
+ET   R2
+AC   RB02116;
+OS   Vibrio nereis 18
+PT   ApaLI
+RS   GTGCAC, 1;
+CR   IV.
+RN   [1]
+RA   Degtyarev S.K., Rechkunova N.I., Netesova N.A., Tchigikov V.E., 
+RA   Malygin E.G., Kochkin A.V., Mikhajlov V.V., Rasskazov V.A.;
+RL   Bioorg. Khim. 13:422-423(1987).
+//
+
+ID   VspI
+ET   R2
+AC   RB02124;
+OS   Vibrio species 343
+PT   VspI
+RS   ATTAAT, 2;
+CR   FIRV.
+RN   [1]
+RA   Degtyarev S.K., Prikhodko E.A., Rechkunova N.I., Prikhodko G.G., 
+RA   Krasnykh V.N.;
+RL   Gene 157:65-66(1995).
+RN   [2]
+RA   Degtyarev S.Kh., Repin V.E., Rechkunova N.I., Tchigikov V.E., 
+RA   Malygin E.G., Mikhajlov V.V., Rasskazov V.A.;
+RL   Bioorg. Khim. 13:420-421(1987).
+//
+
+ID   XbaI
+ET   R2
+AC   RB02126;
+OS   Xanthomonas badrii
+PT   XbaI
+RS   TCTAGA, 1;
+CR   BCFHIJKMNOQRSUVWXY.
+RN   [1]
+RA   Patel Y., Van Cott E., Wilson G.G., McClelland M.;
+RL   Nucleic Acids Res. 18:1603-1607(1990).
+RN   [2]
+RA   Zain B.S., Roberts R.J.;
+RL   J. Mol. Biol. 115:249-255(1977).
+//
+
+ID   XhoI
+ET   R2
+AC   RB02136;
+OS   Xanthomonas holcicola
+PT   XhoI
+RS   CTCGAG, 1;
+CR   BFHJKMNOQRSUWXY.
+RN   [1]
+RA   Gingeras T.R., Myers P.A., Olson J.A., Hanberg F.A., Roberts R.J.;
+RL   J. Mol. Biol. 118:113-122(1978).
+RN   [2]
+RA   Morita M., Sugino Y.;
+RL   Unpublished observations.
+//
+
+ID   XmaI
+ET   R2
+AC   RB02138;
+OS   Xanthomonas malvacearum
+PT   SmaI
+RS   CCCGGG, 1;
+CR   INRUV.
+RN   [1]
+RA   Endow S.A., Roberts R.J.;
+RL   J. Mol. Biol. 112:521-529(1977).
+RN   [2]
+RA   Lunnen K.D., Wilson G.G.;
+RL   (1998) European Patent Office.
+//
+
